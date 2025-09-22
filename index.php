@@ -12,5 +12,6 @@
     <h2>fitur dev</h2>
     dari github
     update fitur penting, ga boleh ke hapus
+    update lagi 
 </body>
 </html>
